@@ -1,6 +1,6 @@
 # An open RNA-Seq data analysis pipeline tutorial with an example of reprocessing data from a recent Zika virus study
 
-_Zichen Wang_ and _Avi Ma'ayan_
+_Zichen Wang_ and _
 
 _BD2K-LINCS Data Coordination and Integration Center (DCIC)_
 _Icahn School of Medicine at Mount Sinai, New York, NY 10029 USA_
